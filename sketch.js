@@ -79,7 +79,7 @@ function setup()
 //draw the trex
 function draw()
 {
-  background("black");
+  background(180);
   
   
   if(gameState===PLAY)
